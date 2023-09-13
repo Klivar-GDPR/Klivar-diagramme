@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2023-09-13T13:57:16.134Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="soGUpAwwnkvFAecOgkdO" version="20.8.5" type="github">
+  <diagram name="Page-1" id="4fc8d65c-f3f6-feb3-4d1c-02f59d9f9886">
+    <mxGraphModel dx="1434" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7kKk6f1cNBzqwhdUCCYl-268" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7kKk6f1cNBzqwhdUCCYl-274" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7kKk6f1cNBzqwhdUCCYl-269" target="7kKk6f1cNBzqwhdUCCYl-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7kKk6f1cNBzqwhdUCCYl-269" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7kKk6f1cNBzqwhdUCCYl-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7kKk6f1cNBzqwhdUCCYl-270" target="7kKk6f1cNBzqwhdUCCYl-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7kKk6f1cNBzqwhdUCCYl-270" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="470" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7kKk6f1cNBzqwhdUCCYl-271" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;rounded=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7kKk6f1cNBzqwhdUCCYl-273" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
